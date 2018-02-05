@@ -34,7 +34,7 @@
               <v-btn
                 class="primary"
                 :disabled="!formIsValid"
-                type="submit">Create Meetup</v-btn>
+                type="submit">Create Confession</v-btn>
             </v-flex>
           </v-layout>
         </form>
